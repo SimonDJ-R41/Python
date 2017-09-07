@@ -1,2 +1,4 @@
 # Python
-Folder for Python projects
+Exam project.
+
+Please read the documentation.
