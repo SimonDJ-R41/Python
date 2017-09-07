@@ -1,0 +1,3 @@
+engelsk.crypt : 13
+engelsk2.crypt : 7
+engelsk3.crypt : 17
